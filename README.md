@@ -12,7 +12,7 @@ click on simple-gui-console.bat to invoke the GUI application.
 Ubuntu
 ------
 
-Navivate to the following directory:
+Navigate to the following directory:
 PROJECT_HOME\jetty\jetty
 
 To launch jetty, double click on the start.jar file or
@@ -29,4 +29,4 @@ Enter a term like "hello" or "java" at the prompt
 Requirements
 ------------
 
-JRE and JDK installed should be a must.
+JRE and JDK need to be installed.
